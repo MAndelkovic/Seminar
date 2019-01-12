@@ -1,1 +1,1 @@
-# Pybinding_tutorial
+# Seminar
